@@ -1,9 +1,24 @@
-body {
-  background-image: url(image/pen.jfif);
-  color: azure;
-  background-size: 1000px;
-  background-position: center;
+.title {
+  color: ;
+  background-color: orchid;
+  text-align: center;
+  padding: 10px;
 }
-h1 {
-  background-color: bisque;
+
+.blog1 {
+  color: red;
+  padding: 10px;
+  text-align: left;
+}
+
+.blog2 {
+  color: orangered;
+  padding: 10px;
+  text-align: center;
+}
+
+.blog3 {
+  color: orange;
+  padding: 10px;
+  text-align: right;
 }
