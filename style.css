@@ -1,3 +1,9 @@
 body {
-  background-color: aquamarine;
+  background-image: url(image/pen.jfif);
+  color: azure;
+  background-size: 1000px;
+  background-position: center;
+}
+h1 {
+  background-color: bisque;
 }
