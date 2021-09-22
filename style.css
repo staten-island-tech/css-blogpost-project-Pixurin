@@ -1,24 +1,29 @@
 .title {
-  color: ;
-  background-color: orchid;
+  color: palevioletred;
   text-align: center;
-  padding: 10px;
+  padding: 30px;
+  margin-top: 50px;
+  height: 100px;
 }
 
-.blog1 {
-  color: red;
+. .first-header {
+  color: paleturquoise;
   padding: 10px;
-  text-align: left;
+  text-align: center;
+  height: 500px;
 }
 
 .blog2 {
-  color: orangered;
+  color: palegreen;
   padding: 10px;
   text-align: center;
+  height: 500px;
+  position: ;
 }
 
 .blog3 {
-  color: orange;
+  color: orchid;
   padding: 10px;
-  text-align: right;
+  text-align: center;
+  height: 500px;
 }
