@@ -1,29 +1,40 @@
 .title {
-  color: palevioletred;
+  color: #e9a9be;
   text-align: center;
-  padding: 30px;
-  margin-top: 50px;
-  height: 100px;
+  padding: 20px;
+  height: 75px;
+  font-family: "Playfair Display", serif;
+  font-size: 50;
 }
 
-. .first-header {
-  color: paleturquoise;
-  padding: 10px;
+.blog1 {
+  color:#f5b51e;
+  padding: 50px;
   text-align: center;
   height: 500px;
+  font-family: font-family: 'PT Serif', serif;
+  font-size: 25;
 }
 
 .blog2 {
-  color: palegreen;
-  padding: 10px;
+  color:#9e9b90;
+  padding: 50px;
   text-align: center;
   height: 500px;
-  position: ;
+  font-family: font-family: 'PT Serif', serif;
+  font-size: 25;
+
 }
 
 .blog3 {
-  color: orchid;
-  padding: 10px;
+  color:#2b3b92;
+  padding: 50px;
   text-align: center;
   height: 500px;
+  font-family: font-family: 'PT Serif', serif;
+  font-size: 25;
+}
+
+.background {
+  background-color:#222222
 }
