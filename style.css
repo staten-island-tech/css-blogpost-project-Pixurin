@@ -5,19 +5,21 @@ body {
 .title {
   color: #e9a9be;
   text-align: center;
-  font-family: "Playfair Display", serif;
-  font-size: 50;
+  font-family: "Architects Daughter", cursive;
+  font-size: 65;
+  padding-top: 70px;
+  text-decoration: underline;
 }
 
 .blog {
   padding: 50px;
   text-align: center;
-  font-family: font-family: 'PT Serif', serif;
+  font-family: "Cormorant Garamond", serif;
   font-size: 25;
   background-color: black;
   border-style: ridge;
   border-width: 20px;
-  width: 40%; 
+  width: 40%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
@@ -25,14 +27,19 @@ body {
 }
 
 #blog-fries {
-  color:#f5b51e;
+  color: #f5b51e;
 }
 
 #blog-elephants {
-  color:#9e9b90;
+  color: #9e9b90;
 }
 
 #blog-car {
-  color:#2b3b92;
+  color: #2b3b92;
 }
 
+#blog-header {
+  text-decoration: underline;
+  font-family: "Architects Daughter", cursive;
+  font-style: italic;
+}
