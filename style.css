@@ -15,7 +15,7 @@ body {
   padding: 50px;
   text-align: center;
   font-family: "Cormorant Garamond", serif;
-  font-size: 25;
+  font-size: 30;
   background-color: black;
   border-style: ridge;
   border-width: 20px;
@@ -35,11 +35,15 @@ body {
 }
 
 #blog-car {
-  color: #2b3b92;
+  color: #2368cf;
 }
 
-#blog-header {
+.blog-header {
   text-decoration: underline;
   font-family: "Architects Daughter", cursive;
   font-style: italic;
+}
+
+.blog-info {
+  font-size: 32px;
 }
