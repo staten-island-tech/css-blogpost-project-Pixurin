@@ -49,6 +49,6 @@ body {
 }
 
 .pictures {
-  max-width: auto;
+  width: auto;
   height: 350px;
 }
