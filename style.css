@@ -48,3 +48,8 @@ body {
 .blog-info {
   font-size: 32px;
 }
+
+.pictures {
+  width: auto;
+  height: 350px;
+}
